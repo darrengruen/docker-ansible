@@ -2,7 +2,7 @@
 
 ## What is it
 
-For more information on ansible, ansible-vault, or ansible-playbook go to (ansible.com)[https://www.ansible.com]
+For more information on `ansible`, `ansible-vault`, or `ansible-playbook` go to (ansible.com)[https://www.ansible.com]
 
 ## Usage
 
